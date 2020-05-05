@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HK2VmbeJoRATUZum5Jcd8HZo/cr3b6ndxezKHnvrJ+HGWoBNdxQDYwhhP3nL7Q5JIbL8HN/RQuxfs6mduvbGmQ==",
+  "success": true,
+  "projectFilePath": "E:\\ProjectVisualStudio\\Lab06PageDisenio2\\Lab06PageDisenio2\\Lab06PageDisenio2.iOS\\Lab06PageDisenio2.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "E:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "E:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

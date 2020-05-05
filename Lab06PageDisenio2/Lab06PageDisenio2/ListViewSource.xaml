@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Lab06PageDisenio2.ListViewSource">
+    <ListView x:Name="LvwPersons"  
+        Margin="5"   
+        IsGroupingEnabled="True"        
+        GroupDisplayBinding="{Binding Key}"        
+        ItemsSource="{Binding GroupedData}"  
+        Header="{Binding}"  
+        Footer="{Binding}"   
+        HasUnevenRows="True">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" BackgroundColor="#DDFFDC">
+                        <Grid VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+                            <Label 
+                                Text="{Binding Name}"
+                                Margin="5"
+                                VerticalOptions="CenterAndExpand" 
+                                HorizontalOptions="StartAndExpand"/>
+                        </Grid>
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+        <ListView.HeaderTemplate>
+            <DataTemplate>
+                <ContentView BackgroundColor="Beige">
+                    <Label 
+                        Margin="10" 
+                        HorizontalOptions="CenterAndExpand" 
+                        Text="{Binding MyNumber, StringFormat='Mi número es : {0}'}" 
+                        TextColor="Black"/>
+                </ContentView>
+            </DataTemplate>
+        </ListView.HeaderTemplate>
+        <ListView.FooterTemplate>
+            <DataTemplate>
+                <ContentView BackgroundColor="Aquamarine">
+                    <Label 
+                        Margin="10" 
+                        HorizontalOptions="CenterAndExpand" 
+                        Text="{Binding ItemsCount, StringFormat='Contactos : {0}'}"  
+                        TextColor="Black"/>
+                </ContentView>
+            </DataTemplate>
+        </ListView.FooterTemplate>
+    </ListView>
+</ContentPage>

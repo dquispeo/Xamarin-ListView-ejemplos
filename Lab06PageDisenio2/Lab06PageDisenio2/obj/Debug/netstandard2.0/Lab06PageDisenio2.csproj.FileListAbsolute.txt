@@ -1,0 +1,17 @@
+E:\ProjectVisualStudio\Lab06PageDisenio2\Lab06PageDisenio2\Lab06PageDisenio2\bin\Debug\netstandard2.0\Lab06PageDisenio2.deps.json
+E:\ProjectVisualStudio\Lab06PageDisenio2\Lab06PageDisenio2\Lab06PageDisenio2\bin\Debug\netstandard2.0\Lab06PageDisenio2.dll
+E:\ProjectVisualStudio\Lab06PageDisenio2\Lab06PageDisenio2\Lab06PageDisenio2\bin\Debug\netstandard2.0\ref\Lab06PageDisenio2.dll
+E:\ProjectVisualStudio\Lab06PageDisenio2\Lab06PageDisenio2\Lab06PageDisenio2\bin\Debug\netstandard2.0\Lab06PageDisenio2.pdb
+E:\ProjectVisualStudio\Lab06PageDisenio2\Lab06PageDisenio2\Lab06PageDisenio2\obj\Debug\netstandard2.0\Lab06PageDisenio2.csprojAssemblyReference.cache
+E:\ProjectVisualStudio\Lab06PageDisenio2\Lab06PageDisenio2\Lab06PageDisenio2\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\ProjectVisualStudio\Lab06PageDisenio2\Lab06PageDisenio2\Lab06PageDisenio2\obj\Debug\netstandard2.0\ListViewCode.xaml.g.cs
+E:\ProjectVisualStudio\Lab06PageDisenio2\Lab06PageDisenio2\Lab06PageDisenio2\obj\Debug\netstandard2.0\ListViewDemo.xaml.g.cs
+E:\ProjectVisualStudio\Lab06PageDisenio2\Lab06PageDisenio2\Lab06PageDisenio2\obj\Debug\netstandard2.0\ListViewSource.xaml.g.cs
+E:\ProjectVisualStudio\Lab06PageDisenio2\Lab06PageDisenio2\Lab06PageDisenio2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\ProjectVisualStudio\Lab06PageDisenio2\Lab06PageDisenio2\Lab06PageDisenio2\obj\Debug\netstandard2.0\Lab06PageDisenio2.csproj.CoreCompileInputs.cache
+E:\ProjectVisualStudio\Lab06PageDisenio2\Lab06PageDisenio2\Lab06PageDisenio2\obj\Debug\netstandard2.0\Lab06PageDisenio2.AssemblyInfoInputs.cache
+E:\ProjectVisualStudio\Lab06PageDisenio2\Lab06PageDisenio2\Lab06PageDisenio2\obj\Debug\netstandard2.0\Lab06PageDisenio2.AssemblyInfo.cs
+E:\ProjectVisualStudio\Lab06PageDisenio2\Lab06PageDisenio2\Lab06PageDisenio2\obj\Debug\netstandard2.0\XamlC.stamp
+E:\ProjectVisualStudio\Lab06PageDisenio2\Lab06PageDisenio2\Lab06PageDisenio2\obj\Debug\netstandard2.0\Lab06PageDisenio2.dll
+E:\ProjectVisualStudio\Lab06PageDisenio2\Lab06PageDisenio2\Lab06PageDisenio2\obj\Debug\netstandard2.0\ref\Lab06PageDisenio2.dll
+E:\ProjectVisualStudio\Lab06PageDisenio2\Lab06PageDisenio2\Lab06PageDisenio2\obj\Debug\netstandard2.0\Lab06PageDisenio2.pdb
